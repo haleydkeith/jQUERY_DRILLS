@@ -30,7 +30,7 @@ $(function () {
       $('#btnSubmit').attr('disabled', false);
     }
   //   function updateStyles() {
-  //     $(this).css({ backgroundColor: 'yellow', borderRadius: '5px' });
+  //     $(this).css({ backgroundColor: 'pink', borderRadius: '5px' });
   //   }
     function changeColor() {
       const r = Math.round(Math.random() * 255);
